@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)]()
+[![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)]()
 <h1 align="center">Hi 👋, I'm Brijesh Prajapati</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <img alt="codding" align="right" width="300" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg" />
